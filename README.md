@@ -30,13 +30,6 @@ python manage.py runserver
 ``` 
 http://127.0.0.1:8000
 ```
-# Usage
-
-* Upon accessing the application, you will be presented with weather information based on your approximate location.
-* Enter the desired city name in the search field to view its current temperature.
-* Utilize the provided navigation buttons to explore weather information for random cities or return to the home page.
-# Contributing
-Contributions are welcomed! Whether it's bug reports, feature requests, or pull requests, we appreciate your input to enhance the application.
 
 ## Acknowledgements
 
