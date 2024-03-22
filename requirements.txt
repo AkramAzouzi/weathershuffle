@@ -1,0 +1,15 @@
+asgiref==3.8.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+decorator==5.1.1
+Django==5.0.3
+future==1.0.0
+geocoder==1.38.1
+idna==3.6
+ratelim==0.1.6
+requests==2.31.0
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.10.0
+urllib3==2.2.1
